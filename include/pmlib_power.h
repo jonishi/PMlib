@@ -30,6 +30,7 @@
 #include <string>
 #include <cstdio>
 #include <cstdlib>
+#include <cstdint>
 
 #ifdef USE_POWER
 #include "pwr.h"
